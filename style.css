@@ -51,11 +51,19 @@ img {
     gap: 5rem;
     text-align: center;
 }
-
+.msg-container {
+    margin-top: 3rem;
+    text-align: center;
+}
 #msg {
     background-color: black;
     color: white;
     text-align: center;
     font-size: 2rem;
     margin-top: 5rem;
+    align-items: center;
+    display: inline;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 12px;
 }
